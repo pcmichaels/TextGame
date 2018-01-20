@@ -1,0 +1,11 @@
+C:\Users\pmichaels\Source\Repos\personal\TextAdventure\TextAdventure.Web\bin\Debug\netcoreapp2.0\TextAdventure.Web.deps.json
+C:\Users\pmichaels\Source\Repos\personal\TextAdventure\TextAdventure.Web\bin\Debug\netcoreapp2.0\TextAdventure.Web.runtimeconfig.json
+C:\Users\pmichaels\Source\Repos\personal\TextAdventure\TextAdventure.Web\bin\Debug\netcoreapp2.0\TextAdventure.Web.runtimeconfig.dev.json
+C:\Users\pmichaels\Source\Repos\personal\TextAdventure\TextAdventure.Web\bin\Debug\netcoreapp2.0\TextAdventure.Web.dll
+C:\Users\pmichaels\Source\Repos\personal\TextAdventure\TextAdventure.Web\bin\Debug\netcoreapp2.0\TextAdventure.Web.pdb
+C:\Users\pmichaels\Source\Repos\personal\TextAdventure\TextAdventure.Web\obj\Debug\netcoreapp2.0\TextAdventure.Web.csprojResolveAssemblyReference.cache
+C:\Users\pmichaels\Source\Repos\personal\TextAdventure\TextAdventure.Web\obj\Debug\netcoreapp2.0\TextAdventure.Web.csproj.CoreCompileInputs.cache
+C:\Users\pmichaels\Source\Repos\personal\TextAdventure\TextAdventure.Web\obj\Debug\netcoreapp2.0\TextAdventure.Web.AssemblyInfoInputs.cache
+C:\Users\pmichaels\Source\Repos\personal\TextAdventure\TextAdventure.Web\obj\Debug\netcoreapp2.0\TextAdventure.Web.AssemblyInfo.cs
+C:\Users\pmichaels\Source\Repos\personal\TextAdventure\TextAdventure.Web\obj\Debug\netcoreapp2.0\TextAdventure.Web.dll
+C:\Users\pmichaels\Source\Repos\personal\TextAdventure\TextAdventure.Web\obj\Debug\netcoreapp2.0\TextAdventure.Web.pdb
