@@ -1,0 +1,39 @@
+﻿@page
+@model TextAdventure.Web.Pages.NavigationModel
+@{
+    ViewData["Title"] = "Navigation";
+}
+
+<h2>Navigation</h2>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-3"></div>
+
+        <div class="col-md-3 align-self-center">
+            <img src="~/images/UpArrow.png" />
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">
+            <img src="~/images/LeftArrow.png" />
+        </div>
+        <div class="col-md-3 align-self-center">
+            <div style="background-image:url('~/images/Background.png')" src="~/images/Background.png">            
+                <label>@Model.CurrentLocation.Description</label>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <img src="~/images/RightArrow.png" />
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3"></div>
+
+        <div class="col-md-3 align-self-center">
+            <img src="~/images/DownArrow.png" />
+        </div>
+    </div>
+</div>

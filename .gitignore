@@ -3,3 +3,8 @@
 ################################################################################
 
 /TextAdventure/TextAdventure.Model/bin/Debug/netstandard2.0
+/TextAdventure/TextAdventure.Model/obj
+/TextAdventure/TextAdventure.Services/bin/Debug/netcoreapp2.0
+/TextAdventure/TextAdventure.Services/obj
+/TextAdventure/TextAdventure.Test/bin/Debug/netcoreapp2.0
+/TextAdventure/TextAdventure.Test/obj

@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextAdventure.Web", "TextAdventure.Web\TextAdventure.Web.csproj", "{261D6BCA-9E86-4835-AC35-DD546712EACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAdventure.Services", "TextAdventure.Services\TextAdventure.Services.csproj", "{86B5B11D-5451-41B8-A10D-EE4380B18733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAdventure.Model", "TextAdventure.Model\TextAdventure.Model.csproj", "{52FF1DF3-19A9-4976-8C89-1C9E31808F1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAdventure.Test", "TextAdventure.Test\TextAdventure.Test.csproj", "{FB5BC5A1-7CAB-4DB6-9FEC-1967299BDBBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{261D6BCA-9E86-4835-AC35-DD546712EACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{261D6BCA-9E86-4835-AC35-DD546712EACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{261D6BCA-9E86-4835-AC35-DD546712EACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86B5B11D-5451-41B8-A10D-EE4380B18733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B5B11D-5451-41B8-A10D-EE4380B18733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B5B11D-5451-41B8-A10D-EE4380B18733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B5B11D-5451-41B8-A10D-EE4380B18733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52FF1DF3-19A9-4976-8C89-1C9E31808F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FF1DF3-19A9-4976-8C89-1C9E31808F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52FF1DF3-19A9-4976-8C89-1C9E31808F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52FF1DF3-19A9-4976-8C89-1C9E31808F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB5BC5A1-7CAB-4DB6-9FEC-1967299BDBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5BC5A1-7CAB-4DB6-9FEC-1967299BDBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5BC5A1-7CAB-4DB6-9FEC-1967299BDBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5BC5A1-7CAB-4DB6-9FEC-1967299BDBBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
